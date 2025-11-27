@@ -22,7 +22,7 @@ mappings = [
     },
     {
         "Source": "VoiceModules",
-        "Destination": os.path.join(os.getenv('LOCALAPPDATA'), "Discord", "*app-*", "modules", "discord_voice-2", "discord_voice"),
+        "Destination": os.path.join(os.getenv('LOCALAPPDATA'), "Discord", "*app-*", "modules", "*discord_voice-*", "discord_voice"),
         "UsePattern": True,
         "IsFolder": True
     }
@@ -168,4 +168,5 @@ else:
     print("\nSome files failed to update. Check the output above.")
 
 print("\nPress Enter to exit...")
+
 input()
