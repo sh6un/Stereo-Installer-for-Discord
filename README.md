@@ -1,6 +1,30 @@
-# Stereo-Installer-for-Discord
-An automated python program to automatically install stereo to your Discord.
+# Stereo Installer
 
-Source has also been provided for those who are cautious about what they run, you are more than happy to compile it yourself!
-Feel free to also watch the video below :
-https://www.youtube.com/watch?v=iCzidlsxc9A
+Updated Stereo Installer, there is now GUI, troubleshooting options and settings coming soon.
+
+---
+
+## 📦 Installation
+
+### Steps
+1. Go to the **Releases** page of this repository.
+2. Download the **latest release**.
+3. Extract the downloaded files (if they are in a `.zip`).
+4. Run **Stereo Installer.exe**.
+5. Ensure you have Discord/DiscordPTB/Discord Canary open when the stereo installer is running.
+
+Nothing else is required, you pick your destination, and gain type.
+
+---
+
+## 🛠️ Troubleshooting
+
+If audio does not work as expected, re-run the installer and adjust the **gain options** and patch again.
+
+---
+
+## 🧩 Support
+
+If you encounter any issues:
+- Open a GitHub Issue then :
+- Include recordings, screenshots or output logs so the issue can be identified.
