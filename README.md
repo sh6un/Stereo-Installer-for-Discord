@@ -4,6 +4,11 @@ Updated Stereo Installer, there is now GUI, troubleshooting options and settings
 
 ---
 
+## 📄 Changelog
+- Icons Added using FontAwesome (Thanks to Ascend for adding)
+- Output Log limit changed from <15> to <100>
+- Safety Check to ensure path validation so other files are not deleted.
+
 ## 📦 Installation
 
 ### Steps
